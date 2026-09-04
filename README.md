@@ -1,17 +1,37 @@
 # Trashalaxy & Pardon — Public
 
-Official public releases for Pardon / Trashalaxy, created by **Dicline Rock Studio** — audiobooks, artwork and selected materials.
+<p align="center">
+  <img src="cover/Pardon-Volume-1-Official-Cover-2026.png" alt="Pardon — Volume 1 official cover" width="360">
+</p>
 
-## Pardon — Volume 1 (English Audiobook)
+<p align="center">
+  Official public releases for Pardon / Trashalaxy, created by <strong>Dicline Rock Studio</strong>.<br>
+  Audiobooks, artwork, and selected materials.
+</p>
 
-This repository contains the English audiobook edition of *Pardon — Volume 1*, including the prologue, eight chapters, epilogue, and the official 2026 cover artwork.
+## Pardon — Volume 1 · English Audiobook
 
-## Contents
+The public English audiobook edition of *Pardon — Volume 1*: prologue, eight chapters, epilogue, and official 2026 cover artwork.
 
-- `audiobook/en/00_Prologue.wav`
-- `audiobook/en/01_Chapter_1.wav` through `08_Chapter_8.wav`
-- `audiobook/en/09_EPILOGUE.wav`
-- `cover/Pardon-Volume-1-Official-Cover-2026.png`
+### Listen
+
+1. [Prologue](audiobook/en/00_Prologue.wav)
+2. [Chapter 1](audiobook/en/01_Chapter_1.wav)
+3. [Chapter 2](audiobook/en/02_Chapter_2.wav)
+4. [Chapter 3](audiobook/en/03_Chapter_3.wav)
+5. [Chapter 4](audiobook/en/04_Chapter_4.wav)
+6. [Chapter 5](audiobook/en/05_Chapter_5.wav)
+7. [Chapter 6](audiobook/en/06_Chapter_6.wav)
+8. [Chapter 7](audiobook/en/07_Chapter_7.wav)
+9. [Chapter 8](audiobook/en/08_Chapter_8.wav)
+10. [Epilogue](audiobook/en/09_EPILOGUE.wav)
+
+### Artwork
+
+- [Official 2026 cover and public PNG formats](cover/)
+- [Illustrations by chapter and Concept Art](illustrations/)
+
+Only materials cleared for public release are added here. Editable sources and unpublished work remain in the private archive.
 
 ## Rights
 
